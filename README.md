@@ -1,5 +1,8 @@
 # AA_battery_Adapter
 This project aims to create an adapter for a group of 4x1.5V AA alcaline batteries using a couple of salvaged cells from disposable e-cigs.
+## Result
+This is what I came up with. If you want to reproduce it just scroll along and follow my steps!
+<br><img src="Images/042_Adapter_with_cells.jpg" width="300" height="auto">
 
 ## Necessity
 All starts from this vintage, miniaturized electric sewing machine that I found online. For it to work there's the need of 4x1.5V AA alcaline batteries. This is not a big problem, it's enough just to buy 4 batteries. However I personally find it such a short term power solution. In fact as I could eperience, the power drainage is quite consistent from this device. 
@@ -31,4 +34,4 @@ The assembly is rather simple. Just mind the positive and negative position of t
 <br><img src="Images/043_Adapter_closed.jpg" width="300" height="auto"> 
 
 <br>3. The last step is to put the adapter inside the sewing machine. In your case I hope the socket will work with your setting!
-<br><img src="Images/05_Adapter_in_sewing_machine_socket.jpg" width="300" height="auto">
+<br><img src="Images/05_Adapter_in_sewing_machine_socket.gif" width="300" height="auto">
